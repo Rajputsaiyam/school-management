@@ -8,6 +8,30 @@
         "distance": 0.00029632899344464057
     },
     {
+        "id": 5,
+        "name": "oford School",
+        "address": "123987 Main St, NY",
+        "latitude": 40.712799072265625,
+        "longitude": -74.00599670410156,
+        "distance": 0.00029632899344464057
+    },
+    {
+        "id": 6,
+        "name": "APSV School",
+        "address": "187 Main St, Ind",
+        "latitude": 40.712799072265625,
+        "longitude": -74.00599670410156,
+        "distance": 0.00029632899344464057
+    },
+    {
+        "id": 1344,
+        "name": "XYZ School",
+        "address": "123 Main St, NY",
+        "latitude": 40.712799072265625,
+        "longitude": -74.00599670410156,
+        "distance": 0.00029632899344464057
+    },
+    {
         "id": 1,
         "name": "ABC School",
         "address": "123 Main Street",
